@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="test lần 2"></Label>
+        <Label Content="test lần 3"></Label>
     </Grid>
 </Window>
