@@ -1,0 +1,6 @@
+D:\Project năm 2 hk1\BatchRename\IContract\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\BatchRename\IContract\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.dll
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.pdb
